@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "isbn": "9780132350884",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "state": "OUT_OF_STOCK"
+    },
+    {
+      "isbn": "9780321146533",
+      "title": "Test Driven Development: By Example",
+      "state": "IN_STOCK"
+    }
+  ]
+}
